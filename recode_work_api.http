@@ -1,0 +1,6 @@
+@recode_work_api_HostAddress = http://localhost:5158
+
+GET {{recode_work_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
