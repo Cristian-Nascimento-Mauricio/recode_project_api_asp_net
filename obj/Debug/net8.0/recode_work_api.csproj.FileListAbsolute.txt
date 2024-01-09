@@ -102,3 +102,4 @@ C:\Users\cristian\source\repos\recode_work_api\recode_work_api\obj\Debug\net8.0\
 C:\Users\cristian\source\repos\recode_work_api\recode_work_api\obj\Debug\net8.0\ref\recode_work_api.dll
 C:\Users\cristian\source\repos\recode_work_api\recode_work_api\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\cristian\source\repos\recode_work_api\recode_work_api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\cristian\source\repos\recode_work_api\recode_work_api\obj\Debug\net8.0\recode_work_api.sourcelink.json

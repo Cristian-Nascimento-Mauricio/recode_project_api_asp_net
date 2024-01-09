@@ -35,6 +35,18 @@ namespace recode_work_api.Controllers
 
             return new ObjectResult(trip);
         }
-            
+
+        [HttpGet("{lowest}/{tallest}")]
+        public IActionResult getForPrice(int lowest, int tallest)
+        {
+
+            List<Trip> trips = _context.trips.Where(m => m.Price >= lowest && m.Price <= tallest).ToList();
+
+            if (trips.Count == 0)
+                return NotFound();
+
+            return new ObjectResult(trips);
+        }
+
     }
 }

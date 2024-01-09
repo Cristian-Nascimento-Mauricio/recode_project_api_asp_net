@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("recode_work_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c2f52265024af8a128ae951012305e4664cc33f")]
 [assembly: System.Reflection.AssemblyProductAttribute("recode_work_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("recode_work_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
